@@ -1,5 +1,7 @@
 Garlic Pasta
 
+Reciep by Jaros³aw Bagnicki
+
 Menu Class: Main Course
 
 Description:
