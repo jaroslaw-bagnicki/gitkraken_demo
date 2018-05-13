@@ -7,3 +7,5 @@
 # exclude all jpg files in mages folder
 /images/*/jpg
 
+
+*.log
