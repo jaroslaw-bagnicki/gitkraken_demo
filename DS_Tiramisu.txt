@@ -1,5 +1,7 @@
 Tiramisu
 
+Recipe by Peter Gunardi
+
 Menu Class: Dessert
 
 Description:
