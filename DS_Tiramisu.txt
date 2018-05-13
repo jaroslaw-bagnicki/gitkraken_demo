@@ -1,6 +1,6 @@
 Tiramisu
 
-Recipe by Peter Gunardi
+Recipe by Jaros�aw Bagnicki
 
 Menu Class: Dessert
 
